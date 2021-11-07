@@ -1,0 +1,53 @@
+kd;nama item;cost;tipe item;attribut;efek unik
+1;Sea Halbert;2350;Attack;"phy att_80,att spd_25";BA -50% regen 3s
+2;Rose Gold Meteor;2120;Attack;"phy att_60,mag def_30,phy lifesteal_5";"HP<30% Sh 510-1350(level) 3s,cooldown_40s"
+3;Hunter Strike;2010;Attack;"phy att_80,cooldown_10";"PPEN 15,D 5x mov spd_30%, CD --"
+4;Bloodlust Axe;1970;Attack;"phy att_70,cooldown_10";20 SV
+5;Blade of Heptaseas;1950;Attack;"phy att_70,hp_250";"PPEN 15,no D 5s>BA "
+6;Blade of Despair;3010;Attack;"phy att_160,mov spd_5";HPEnemy<50% phy att_H 25% 2s
+7;Scarlet Phantom;2020;Attack;"phy att_30,att spd_20,crit chance_25";Crit Hit att spd_Hero 30% and Crit Chance 5% 2s
+8;Windtalker;1870;Attack;"att spd_40,mov spd_20,crit chance_10";"5-3s BA hit 3 enemy, cooldown_turun"
+9;Bersekers Fury;2350;Attack;"phy att_65,crit chance_25";"CritD 40,CritHit tambah PAHero 5% 2s"
+10;Endless Battle;2470;Attack;"phy att_65,mana regen_5,hp_250,cooldown_10,mov spd_5,phy lifesteal_10";"after 3s Skill  BA> TD 60% of PA,CD 1.5"
+11;Haas's Claws;1810;Attack;phy att_70;"phy lifesteal_20, hp_< 40% H + phy lifesteal_10%"
+12;Maleficooldown_Roar;2060;Attack;phy att_60;"PP 40,BA abai 20% DEF Turret"
+13;Golden Staff;2100;Attack;"phy att_65,att spd_30";"Not CritChance-convert 1% AS,BA"
+14;Wind of Nature;1910;Attack;"phy att_10,att spd_25,phy lifesteal_15";"Immune phy def_2s,CD 70s-non Mmana_1/2 CD"
+15;Corrosion Scythe;2050;Attack;"phy att_50,mov spd_5,att spd_25";BA chain 50% slow Enemy 30%-BA range slow Enemy 25%
+16;Demon Hunter Sword;2180;Attack;"phy att_35,att spd_25";"BA 9% hp_Enemy Tersisa,"
+17;Genius Wand;2000;Magic;"mag pow_75,mov spd_5";"mag pen_15,D enemy -(3-10MD) 2s"
+18;Lightning Truncheon;2250;Magic;"mag pow_75,mana_300,cooldown_10";setiap 6s pantul D 20-100MD(Skala Max Mana) 3 Enemy
+19;Fleeting Time;2050;Magic;"mag pow_70,cooldown_15";Kill or Assist CD Ulti 30%
+20;Blood Wings;3000;Magic;"mag pow_150,hp_500";Tingkatkan 1.5 hp_Setiap mag pow_1
+21;Clock of Destiny;1950;Magic;"mag pow_60,hp_615,mana_600";"setiap 30s hp_30 MA 5 (Max 10x),Stack Max mag pen_5%"
+22;Calamity Reaper;1950;Magic;"mag pow_70,mana_100,mana regen_6,cooldown_10";"3s after Skill BA get TR 120% of MP, CD 1.5s"
+23;Glowing Wand;2200;Magic;"mag pow_75,hp_400,mov spd_5";Skill efek Burn Enemy 3s Damage 1% Max HP
+24;Ice Queen Wand;2240;Magic;"mag pow_75,mag lifesteal_10,mana_150,mov spd_7";Skill Enemy get enemy slow 15% 3s Stack 2kali
+25;Concintrated Energy;2020;Magic;"mag pow_70,hp_700";"mag lifesteal_25%,Kill get hp_10%"
+26;Holy Crystal;2180;Magic;mag pow_100;Tingkat MA 21-35%
+27;Divine Glave;1970;Magic;mag pow_65;"mag pen_40,hp_> 70% tingkat unik 1 30%"
+28;Necklace of Durance;2010;Magic;"mag pow_60,cooldown_5,mag lifesteal_10";Skill enemy Kurangi regen 50% 3s 
+29;Feather of Heaven;2030;Magic;"mag pow_65,att spd_30,mov spd_5";BA get + MA 40%
+30;Winter Truncheon;1910;Magic;"mag pow_60,phy def_25,hp_400";Freeze 2s
+31;Enchanted Talisman;1870;Magic;"mag pow_50,hp_250,cooldown_20";Regen Mana 15% of Max Mana Every 10s
+32;Twilight Armor;2100;Defence;"hp_1200,mana_400,crit redux_20";"phy def_not greater 900,CD 4s"
+33;Brute Force;1870;Defence;"hp_770,phy def_45";"Skill or BA tambah MV 3%, phy def_& mag def_sebanyak 4"
+34;Immortality;2120;Defence;"hp_800,phy def_40";Resurect 2s after death and get hp_15%  and Sh 300-1000 D
+35;Dominance Ace;2010;Defence;"mana_500,phy def_70,mov spd_5";"CD 10,kurangi MV Enemy 10%,"
+36;Oracle;2060;Defence;"hp_850,mag def_42,cooldown_10";Tingkatkan Sh and HPR 30%
+37;Athena Shield;2150;Defence;"hp_900,mag def_62,hp regen_4";Aktif terima mag def_and kurangi mag def_25% per 5s
+38;Guardian Helmet;2200;Defence;"hp_1550,hp regen_20";"Regen 1.5% Max HP,Kill tingkatkan Regen"
+39;Antique Culrass;2170;Defence;"hp_920,phy def_54,hp regen_6";Terima Damage kurangi phy att_Enemy 10% 2s stack 3 kali
+40;Cursed Helmed;1760;Defence;"hp_1200,mag def_25";
+41;Thunder Belt;2290;Defence;"hp_800,mana regen_6,cooldown_10,phy def_40";After Skill  3s BA berikan TD of 2% max hp_Hero
+42;Queens Wings;2250;Defence;"phy att_15,hp_1000,cooldown_10";"Kurangi D after get hit 40% when hp_< 40% and tingkat phy lifesteal_40% 5s,CD"
+43;Blade Armor;1660;Defence;phy def_90;BA pntulkan D to enemy 25% of phy att_Enemy
+44;Demon Shoes;720;Move;"mov spd_40,mana regen_6";kill or assist pulihkan mana 10% and minion 4%
+45;Rapid Boots;850;Move;mov spd_80;get or hit D kurangi MV Enemy 40 every 5s
+46;Swift Boots;710;Move;"mov spd_40,att spd_40";MV 40
+47;Arcane Boots;690;Move;"mov spd_40,mag pen_15";MV 40
+48;Tought Boots;700;Move;"mov spd_40,phy def_22";BA hit D by Enemy tingkatkan phy def_5(Max 25) Every 3s
+49;Warrior Boots;720;Move;"mov spd_40,mag def_22";Kurangi Ccooldown_30%
+50;Magic Shoes;710;Move;"mov spd_40,cooldown_10";MV 40
+51;War Axe;1980;Attack;"phy att_45,hp_550,cooldown_10";Berikan D Tingkatkan phy att_9&PPEN 3 on 1s Every 3s
+52;Radian Armor;1980;Defence;"hp_950,mag def_52,hp regen_12";Tingkat mag def_3-10 after get mag def_3s stack 6
